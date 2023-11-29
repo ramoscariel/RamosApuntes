@@ -1,4 +1,4 @@
-namespace RamosApuntes;
+namespace RamosApuntes.Views;
 
 public partial class NotePage : ContentPage
 {
